@@ -1,4 +1,4 @@
-package com.trading.memecoin;
+package com.trading.memecoin.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
